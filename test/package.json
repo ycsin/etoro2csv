@@ -1,0 +1,13 @@
+{
+  "name": "etoro2csv-tests",
+  "version": "1.0.0",
+  "description": "Tests for etoro2csv (need your own eToro statement .xlsx)",
+  "scripts": {},
+  "keywords": [],
+  "author": "Yong Cong Sin <yongcong.sin@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "playwright-core": "^1.57.0"
+  },
+  "private": true
+}
